@@ -6,3 +6,5 @@ Modelos comparados:
 * VGG16
 * VGG19
 * MobileNetV2
+
+As imagens utilizadas foram selecionadas aleatoriamente dentre todas disponíveis.
